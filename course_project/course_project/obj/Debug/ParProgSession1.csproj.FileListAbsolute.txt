@@ -1,0 +1,6 @@
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\bin\Debug\ParProgSession1.exe.config
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\bin\Debug\ParProgSession1.exe
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\bin\Debug\ParProgSession1.pdb
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\obj\Debug\ParProgSession1.csprojResolveAssemblyReference.cache
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\obj\Debug\ParProgSession1.exe
+D:\Taguht Courses\Parallel Programming 4th Year\Projects\ParProgSession1\ParProgSession1\obj\Debug\ParProgSession1.pdb
